@@ -7,6 +7,8 @@ def calculate_grade(mark):
         return "C"
     else:
         return "Fail"
+    
+print("Wrong change made")
 
 
 students = ["Alice", "Bob", "Charlie", "David", "Eve"]
