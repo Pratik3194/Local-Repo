@@ -11,7 +11,7 @@ def find_even_odd(numbers):
     return even, odd
 
 
-numbers = [12, 7, 5, 20, 33, 18, 41, 50, 29, 14]
+numbers = [12, 7, 5, 20, 33, 18, 41, 50]
 
 even_numbers, odd_numbers = find_even_odd(numbers)
 
