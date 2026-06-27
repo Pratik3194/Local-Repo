@@ -9,8 +9,8 @@ def calculate_grade(mark):
         return "Fail"
 
 
-students = ["Alice", "Bob", "Charlie", "David"]
-marks = [92, 78, 55, 67]
+students = ["Alice", "Bob", "Charlie", "David", "Eve"]
+marks = [92, 78, 55, 67, 85]
 
 print("Student Report")
 print("-" * 30)
